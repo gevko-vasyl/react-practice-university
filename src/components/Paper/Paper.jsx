@@ -11,7 +11,7 @@ Paper.propTypes = {
 };
 
 Paper.defaultProps = {
-  gap: '16',
+  gap: 16,
 };
 
 export default Paper;

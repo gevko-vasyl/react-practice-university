@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 
 const Card = ({ name }) => {
   return (
-    <Paper gap="32">
+    <Paper gap={32}>
       <Image src="" alt="" />
 
       <OrganizationType>Університет</OrganizationType>
